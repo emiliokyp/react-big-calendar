@@ -1,11 +1,8 @@
 {
-  "name": "rapid-circle-big-calendar",
+  "name": "@emilio.rc/rapid-circle-big-calendar",
   "version": "0.23.1",
   "description": "Calendar! with events",
-  "author": {
-    "name": "Jason Quense",
-    "email": "monastic.panic@gmail.com"
-  },
+  "author": "Jason Quense <monastic.panic@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/intljusticemission/react-big-calendar.git"
@@ -145,7 +142,10 @@
   "bugs": {
     "url": "https://github.com/intljusticemission/react-big-calendar/issues"
   },
-  "readme": "ERROR: No README data found!",
   "homepage": "https://github.com/intljusticemission/react-big-calendar#readme",
-  "_id": "rapid-circle-big-calendar@0.23.0"
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  }
 }
