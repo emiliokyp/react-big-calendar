@@ -138,7 +138,7 @@ class DateContentRow extends React.Component {
     }
 
     return (
-      <div className={className}>
+      <div className={className} style={{ overflow: 'visible' }}>
         <BackgroundCells
           date={date}
           getNow={getNow}
